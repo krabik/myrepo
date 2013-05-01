@@ -1,0 +1,4 @@
+C:\Users\tomash.wrzonski\git\mycsharpapp\mycsharpapp\bin\Release\mycsharpapp.exe
+C:\Users\tomash.wrzonski\git\mycsharpapp\mycsharpapp\bin\Release\mycsharpapp.pdb
+C:\Users\tomash.wrzonski\git\mycsharpapp\mycsharpapp\obj\x86\Release\mycsharpapp.exe
+C:\Users\tomash.wrzonski\git\mycsharpapp\mycsharpapp\obj\x86\Release\mycsharpapp.pdb
