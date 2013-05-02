@@ -24,6 +24,7 @@
             <PackageSource Include="https://my-nuget-source/nuget/" />
         -->
 			<PackageSource Include="http://ec2-54-216-18-186.eu-west-1.compute.amazonaws.com/api/v2/" />
+			<PackageSource Include="https://nuget.org/api/v2/" />
     </ItemGroup>
 
     <PropertyGroup Condition=" '$(OS)' == 'Windows_NT'">
