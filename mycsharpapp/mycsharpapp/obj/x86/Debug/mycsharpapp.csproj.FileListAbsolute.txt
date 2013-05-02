@@ -2,3 +2,6 @@ C:\Users\tomash.wrzonski\git\mycsharpapp\mycsharpapp\bin\Debug\mycsharpapp.exe
 C:\Users\tomash.wrzonski\git\mycsharpapp\mycsharpapp\bin\Debug\mycsharpapp.pdb
 C:\Users\tomash.wrzonski\git\mycsharpapp\mycsharpapp\obj\x86\Debug\mycsharpapp.exe
 C:\Users\tomash.wrzonski\git\mycsharpapp\mycsharpapp\obj\x86\Debug\mycsharpapp.pdb
+C:\Users\tomash.wrzonski\git\mycsharpapp\mycsharpapp\bin\Debug\ClassLibrary1.dll
+C:\Users\tomash.wrzonski\git\mycsharpapp\mycsharpapp\bin\Debug\ClassLibrary1.pdb
+C:\Users\tomash.wrzonski\git\mycsharpapp\mycsharpapp\obj\x86\Debug\mycsharpapp.csprojResolveAssemblyReference.cache
