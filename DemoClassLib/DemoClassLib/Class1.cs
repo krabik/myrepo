@@ -12,6 +12,7 @@ namespace DemoClassLib
             return i + j;
         }
 
+        //comment
         public double multi(int i, int j)
         {
             return i * j;
