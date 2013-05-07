@@ -22,9 +22,16 @@
         <!--
             <PackageSource Include="https://nuget.org/api/v2/" />
             <PackageSource Include="https://my-nuget-source/nuget/" />
-        -->
+        
+		
 		<PackageSource Include="http://ec2-54-216-18-186.eu-west-1.compute.amazonaws.com/api/v2/" />
 		<PackageSource Include="https://nuget.org/api/v2/" />
+		-->
+		
+		<PackageSource Include="http://ec2-54-228-120-255.eu-west-1.compute.amazonaws.com/artifactory/api/nuget/poc-nuget-local" />
+		<PackageSource Include="http://ec2-54-228-120-255.eu-west-1.compute.amazonaws.com/artifactory/api/nuget/nuget-poc-repos" />
+		
+		
     </ItemGroup>
 
     <PropertyGroup Condition=" '$(OS)' == 'Windows_NT'">
