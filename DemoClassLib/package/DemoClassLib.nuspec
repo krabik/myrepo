@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>DemoClassLib</id>
-    <version>1.0.0</version>
+    <version>1.0.0.1</version>
     <title>DemoClassLib</title>
     <authors>Tomash.Wrzonski</authors>
     <owners>Tomash.Wrzonski</owners>
@@ -13,4 +13,8 @@
     <language />
     <tags>sum multi</tags>
   </metadata>
+
+  <files>
+		<file src="..\DemoClassLib\bin\Debug\DemoClassLib.dll" target="lib/net40" />
+  </files>
 </package>
