@@ -13,7 +13,7 @@ namespace DemoJobPullFromNexus
             MyMathClass m = new MyMathClass();
 
             int res = m.sum(2, 7);
-            Console.WriteLine("Calling sum() function from nuget package named: DemoClassLib.2.0.0.nupkg\n\nResult: {0}", res);
+            Console.WriteLine("Calling sum() function from nuget package named: DemoClassLib.nupkg\n\nResult: {0}", res);
 
             Console.WriteLine("\nBye!");
             Console.ReadLine();
