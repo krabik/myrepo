@@ -31,9 +31,11 @@
 		<PackageSource Include="http://ec2-54-228-120-255.eu-west-1.compute.amazonaws.com/artifactory/api/nuget/poc-nuget-local" />
 		<PackageSource Include="http://ec2-54-228-120-255.eu-west-1.compute.amazonaws.com/artifactory/api/nuget/nuget-poc-repos" />
 		
+		http://ec2-46-137-145-192.eu-west-1.compute.amazonaws.com/nexus/service/local/nuget/nuget-local/
+		
 		-->
 		
-		<PackageSource Include="http://ec2-46-137-145-192.eu-west-1.compute.amazonaws.com/nexus/service/local/nuget/nuget-local/" />
+		<PackageSource Include="http://ec2-54-228-120-255.eu-west-1.compute.amazonaws.com/artifactory/api/nuget/poc-nuget-local" />
 		
     </ItemGroup>
 
