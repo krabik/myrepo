@@ -1,0 +1,144 @@
+[33mcommit 11d11decb68cff418f19d303e1bc26eeb3fa197a[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Sun May 26 13:07:22 2013 +0300
+
+    add files
+
+[33mcommit c770952ae38762459228cd01a0ff7e8eab6e797e[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Mon May 20 21:10:11 2013 +0300
+
+    change nuspec
+
+[33mcommit afd5017acce0dcd96a477cb82784e11407ce5d4c[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Mon May 20 16:02:07 2013 +0300
+
+    update targets with nexus URL and remove lib reference
+
+[33mcommit 9499dc6aa7c524127dfdecb67dc7e4ff3e093e39[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Tue May 7 17:52:55 2013 +0100
+
+    Moved NuSpec
+
+[33mcommit 31fedb3d1950a5ea98d2bc2845cd49e3403d9019[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Tue May 7 15:36:48 2013 +0100
+
+    add a msg
+
+[33mcommit 1c40bc6f57c7e83af9edda5c6d8837c2cdacf13c[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Fri May 3 19:17:36 2013 +0100
+
+    pol test
+
+[33mcommit 00bfe9487ae9172f4f8a1dcda683d8b332f2616e[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Fri May 3 19:15:53 2013 +0100
+
+    pol test
+
+[33mcommit e307724403c4960ca11070b29cff7b52f1081090[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Fri May 3 19:13:59 2013 +0100
+
+    trigger test
+
+[33mcommit 9d6d5ff3deacbeb9f5047f1d41696290d2d4d4cc[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Fri May 3 18:23:03 2013 +0100
+
+    add pom content
+
+[33mcommit 0a02dc76062e9f54d34a371c1d6f49634d1c89f4[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Fri May 3 18:15:28 2013 +0100
+
+    add pom.xml
+
+[33mcommit 5e87c9d8797595ff8f3ae57642144e4dc76bc64b[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Fri May 3 16:28:45 2013 +0100
+
+    add DemoClassLib and DemoNugetPckProgram projects
+
+[33mcommit 39ee35fca4804d622ccb07276e75d654d6d53a31[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Thu May 2 16:23:24 2013 +0100
+
+    Updated NuGet.targets
+
+[33mcommit 71742a3ac507210fd2c3ce354a39e4ed80620c0c[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Thu May 2 16:09:00 2013 +0100
+
+    Added nuspec
+
+[33mcommit 48570eb359089f6a4197f2b3d342adf551662a8a[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Thu May 2 16:06:11 2013 +0100
+
+    Updated coolcalc
+
+[33mcommit be228941af3a8a61d41ab11d1fe7bc3c32ac61e5[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Thu May 2 15:55:48 2013 +0100
+
+    Added coolcacl
+
+[33mcommit 0871a65d50f957c4357a2a02c2b0c038b145c393[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Thu May 2 14:33:32 2013 +0100
+
+    add dll lib
+
+[33mcommit 39de619acc188768a01ded3fad36ec10ead0bab8[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Thu May 2 12:59:48 2013 +0100
+
+    all calc dll
+
+[33mcommit 6bfbd6f8a5d12e98029a583ca140d234ae7e4a9f[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Thu May 2 12:44:00 2013 +0100
+
+    add calc call
+
+[33mcommit 31950da17a1b6b43172d9fdbce1e61d82f1a94e5[m
+Merge: 19c8855 0bd1809
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Wed May 1 18:49:07 2013 +0100
+
+    Merge branch 'master' of github.com:krabik/myrepo
+
+[33mcommit 19c88558c7988864f2bab0c9c15da72a04234597[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Wed May 1 18:44:05 2013 +0100
+
+    add some
+
+[33mcommit 4b0b2189be18303e441a8f5fd0916bed6fdef025[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Wed May 1 17:37:08 2013 +0100
+
+    add line
+
+[33mcommit 0bd180984a7193e0c6f81ac76aedb0b546b39b20[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Wed May 1 09:31:05 2013 -0700
+
+    Initial commit
+
+[33mcommit 3ead62bba0e9327b6735c61a3b129b302c44ee8a[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Wed May 1 17:20:39 2013 +0100
+
+    commit more of mycsharpapp
+
+[33mcommit c100d4a22998acb3aa8c9a0cdf504fe0f939899e[m
+Author: tomash <tomash.wrzonski@wonga.com>
+Date:   Wed May 1 17:08:43 2013 +0100
+
+    add mycsharpapp project

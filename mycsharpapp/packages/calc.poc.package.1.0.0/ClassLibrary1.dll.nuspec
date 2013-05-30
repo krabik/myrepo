@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>calc.poc.dll</id>
+    <version>1.0.0</version>
+    <authors>tomash</authors>
+    <owners>wonga</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>sample package</description>
+    <releaseNotes>first calc sample package</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>poc calc nuget package</tags>
+  </metadata>
+</package>
